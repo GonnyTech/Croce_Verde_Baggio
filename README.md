@@ -13,6 +13,7 @@ Il materiale didattico contenuto in questa repository è stato prodotto da **ARE
 **Tutti i contenuti sono distribuiti sotto i termini della licenza Creative Commons più restrittiva:**
 > **Creative Commons Attribuzione - Non Commerciale - Non Opere Derivate 4.0 Internazionale (CC BY-NC-ND 4.0)**
 
+## Cosa ci trovi dentro?
 * **Registrazioni Audio** (`.mp3`).
 * **Video** (filmati didattici).
 * **Documenti** (appunti, slide, PDF, testi di riferimento).
