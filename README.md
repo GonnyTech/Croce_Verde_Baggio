@@ -6,6 +6,13 @@ Questa repository è un archivio digitale che funge da punto unico di raccolta e
 
 **⚠️ Attenzione: Questo archivio è destinato solo a scopi didattici e di consultazione. Non è possibile utilizzarlo per scopi commerciali o di violenza.**
 
+## 📜 Informazioni sulla Licenza e Copyright
+
+Il materiale didattico contenuto in questa repository è stato prodotto da **AREU** ed è destinato a scopo formativo interno alla Croce Verde Baggio.
+
+**Tutti i contenuti sono distribuiti sotto i termini della licenza Creative Commons più restrittiva:**
+> **Creative Commons Attribuzione - Non Commerciale - Non Opere Derivate 4.0 Internazionale (CC BY-NC-ND 4.0)**
+
 * **Registrazioni Audio** (`.mp3`).
 * **Video** (filmati didattici).
 * **Documenti** (appunti, slide, PDF, testi di riferimento).
