@@ -23,7 +23,7 @@ Il materiale didattico contenuto in questa repository è stato prodotto da **ARE
 
 ## 📥 Come Scaricare i File
 
-Hai due modi principali per scaricare i file:
+Hai tre modi principali per scaricare i file:
 
 ### Metodo A: Download Diretto (Consigliato per pochi file)
 
