@@ -15,7 +15,7 @@ Il materiale didattico contenuto in questa repository è stato prodotto da **ARE
 
 ## Cosa ci trovi dentro?
 
-* **Registrazioni Audio** (`.mp3`).
+* **Registrazioni Audio** (`.m4a`).
 * **Video** (filmati didattici).
 * **Documenti** (appunti, slide, PDF, testi di riferimento).
 
@@ -30,7 +30,7 @@ Hai tre modi principali per scaricare i file:
 Questo è il modo più semplice per scaricare singoli file o piccole cartelle:
 
 1.  **Naviga:** Clicca sul nome della cartella o del file che ti interessa all'interno del browser di GitHub.
-2.  **Seleziona il File:** Clicca sul nome del file specifico (es. `Lezione_1_Audio.mp3`).
+2.  **Seleziona il File:** Clicca sul nome del file specifico (es. `Lezione_1_Audio.m4a`).
 3.  **Scarica:** Nella pagina di visualizzazione del file, cerca e clicca sul pulsante **"Download"** (o l'icona con una freccia verso il basso).
 4.  Il file verrà salvato nella cartella "Download" del tuo computer.
 
