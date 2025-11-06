@@ -4,11 +4,11 @@ Benvenuto/a!
 
 Questa repository è un archivio digitale che funge da punto unico di raccolta e distribuzione di tutti i miei materiali di studio composti principalmente da file multimediali (audio, video) e documenti (appunti, slide, PDF, testi di riferimento) ottenuti durante il corso di trasporto sanitario e di soccorritore 118 in **Croce Verde Baggio**.
 
-**⚠️ Attenzione: Questo archivio è destinato solo a scopi didattici e di consultazione. Non è possibile utilizzarlo per scopi commerciali o di violenza.**
+**⚠️ Attenzione: Questo archivio è destinato solo a scopi didattici e di consultazione. Non è possibile utilizzarlo per scopi commerciali, di lucro o di violenza. E' consentita la riproduzione solamente dietro utorizzazione da parte dei proprietari intellettuali del contenuto. La condivisione è autorizzata solo dietro menzione di paternità adeguata del proprietario intellettuale del contenuto, con la fornitura di un link alla licenza e fornitura di elenco COMPLETO delle modifiche apportate. Il licenziante e proprietario intellettuale del contenuto di questa repository ha l'obbligo di avallare l'utilizzo del materiale.**
 
 ## 📜 Informazioni sulla Licenza e Copyright
 
-Il materiale didattico contenuto in questa repository è stato prodotto da **AREU** ed è destinato a scopo formativo interno alla Croce Verde Baggio.
+Il materiale didattico contenuto in questa repository è stato prodotto da **AREU** ed è destinato a scopo formativo interno alla Croce Verde Baggio (o associazioni simili).
 
 **Tutti i contenuti sono distribuiti sotto i termini della licenza Creative Commons più restrittiva:**
 > **Creative Commons Attribuzione - Non Commerciale - Non Opere Derivate 4.0 Internazionale (CC BY-NC-ND 4.0)**
