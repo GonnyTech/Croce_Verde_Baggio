@@ -44,6 +44,18 @@ Se desideri salvare tutti i materiali contemporaneamente, scarica l'intero conte
 4.  Un file `.zip` contenente tutti gli appunti verrà scaricato sul tuo computer.
 5.  **Decomprimi:** Fai doppio clic sul file `.zip` scaricato per estrarre la cartella e accedere ai materiali.
 
+### Metodo C: Download dell'Intero Repository in Vault Obsidian
+
+Questa repository è strutturata per essere compatibile con l'applicazione di *note-taking* **Obsidian**. Puoi aprire l'intera cartella scaricata come un *Vault* per sfruttare le funzionalità di ricerca e *link* interni.
+
+ 1. **Scarica ZIP:** Segui i punti 1, 2, e 3 del Metodo B per scaricare il file `.zip` della repository. 
+ 2. **Decomprimi:** Estrai il contenuto in una posizione fissa sul tuo computer (es. Documenti/ArchivioCVB). 
+ 3. **Apri in Obsidian:** 
+	 * Apri l'applicazione **Obsidian**. 
+	 * Clicca su **"Apri un altro vault"** (Open another vault). 
+	 * Seleziona **"Apri cartella come vault"** (Open folder as vault). 
+	 * Naviga e seleziona la **cartella estratta** (es. `Croce_Verde_Baggio-main/`). 
+ 4. Potrai consultare tutti i documenti e file come un'unica base di conoscenza
 ---
 
 ## 📂 Come Consultare i File Salvati
@@ -55,3 +67,4 @@ Una volta scaricati i file, puoi consultarli con i programmi standard del tuo si
 | **Documenti**     | `.pdf`, `.docx`, `.txt` | Adobe Reader, Microsoft Word, browser web (per i PDF)                              |
 | **Audio**         | `.mp3`, `.wav`, `.m4a`  | Windows Media Player, VLC, QuickTime Player, Groove Musica                         |
 | **Video**         | `.mp4`, `.mov`, `.avi`  | VLC media player (consigliato), QuickTime Player, Lettore multimediale predefinito |
+| **Obsidian**      | Tutti quelli sopra      | Se usi Obsidian puoi scaricare la repo e aprirla come vault                        |
