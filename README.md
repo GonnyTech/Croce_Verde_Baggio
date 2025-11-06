@@ -54,13 +54,3 @@ Una volta scaricati i file, puoi consultarli con i programmi standard del tuo si
 | **Documenti**     | `.pdf`, `.docx`, `.txt` | Adobe Reader, Microsoft Word, browser web (per i PDF)                              |
 | **Audio**         | `.mp3`, `.wav`, `.m4a`  | Windows Media Player, VLC, QuickTime Player, Groove Musica                         |
 | **Video**         | `.mp4`, `.mov`, `.avi`  | VLC media player (consigliato), QuickTime Player, Lettore multimediale predefinito |
-
-### Suggerimenti per l'Archiviazione Sicura
-
-Per non perdere i tuoi appunti, ti consiglio di salvarli seguendo la regola di backup "3-2-1":
-
-1.  **Sul tuo PC/Laptop** (per l'accesso rapido).
-2.  **Su un disco esterno o USB** (come backup fisico).
-3.  **Su un servizio Cloud** (come Google Drive, Dropbox o OneDrive) per potervi accedere da qualsiasi dispositivo e proteggerli da guasti al tuo hardware.
-
-In questo modo, i tuoi materiali saranno sempre al sicuro e disponibili.
