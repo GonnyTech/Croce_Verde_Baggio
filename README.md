@@ -18,7 +18,6 @@ Il materiale didattico contenuto in questa repository è stato prodotto da **ARE
 * **Video** (filmati didattici).
 * **Documenti** (appunti, slide, PDF, testi di riferimento).
 
-
 ---
 
 ## 📥 Come Scaricare i File
@@ -50,11 +49,11 @@ Se desideri salvare tutti i materiali contemporaneamente, scarica l'intero conte
 
 Una volta scaricati i file, puoi consultarli con i programmi standard del tuo sistema operativo:
 
-| Tipo di Materiale | Formati Comuni | Programmi per la Consultazione (Esempi) |
-| :--- | :--- | :--- |
-| **Documenti** | `.pdf`, `.docx`, `.txt` | Adobe Reader, Microsoft Word, browser web (per i PDF) |
-| **Audio** | `.mp3`, `.wav`, `.m4a` | Windows Media Player, VLC, QuickTime Player, Groove Musica |
-| **Video** | `.mp4`, `.mov`, `.avi` | VLC media player (consigliato), QuickTime Player, Lettore multimediale predefinito |
+| Tipo di Materiale | Formati Comuni          | Programmi per la Consultazione (Esempi)                                            |
+| :---------------- | :---------------------- | :--------------------------------------------------------------------------------- |
+| **Documenti**     | `.pdf`, `.docx`, `.txt` | Adobe Reader, Microsoft Word, browser web (per i PDF)                              |
+| **Audio**         | `.mp3`, `.wav`, `.m4a`  | Windows Media Player, VLC, QuickTime Player, Groove Musica                         |
+| **Video**         | `.mp4`, `.mov`, `.avi`  | VLC media player (consigliato), QuickTime Player, Lettore multimediale predefinito |
 
 ### Suggerimenti per l'Archiviazione Sicura
 
