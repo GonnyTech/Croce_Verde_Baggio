@@ -1,6 +1,6 @@
 # Croce Verde Baggio 
 
-Benvenuto!
+Benvenuto/a!
 
 Questa repository è un archivio digitale che funge da punto unico di raccolta e distribuzione di tutti i miei materiali di studio composti principalmente da file multimediali (audio, video) e documenti (appunti, slide, PDF, testi di riferimento) ottenuti durante il corso di trasporto sanitario e di soccorritore 118 in **Croce Verde Baggio**.
 
