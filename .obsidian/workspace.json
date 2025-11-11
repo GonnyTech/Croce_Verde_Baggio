@@ -11,14 +11,12 @@
             "id": "818ba6260e6cbcf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Part 4/NotebookLM Mind Map.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "NotebookLM Mind Map"
             }
           }
         ]
@@ -169,12 +167,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "818ba6260e6cbcf6",
+  "active": "508a2211a5def23f",
   "lastOpenFiles": [
+    "Part 4/NotebookLM Mind Map.png",
+    "README.md",
     "Part 4",
     "New folder",
     "calendario.pdf",
-    "README.md",
     "Part 1/Diventare_Soccorritore.mp4",
     "Part 1/Addetto_al_Trasporto_Sanitario.m4a",
     "Part 2/ABCDE_e_Fisiologia.m4a",
@@ -182,7 +181,6 @@
     "Part 2/C.3.Valutazione primaria del paziente.pdf",
     "Part 2/Il_Protocollo_ABCDE.mp4",
     "Part 2/C.2.Rilevazione dei parametri vitali.pdf",
-    "Part 2/C.1.Cenni di anatomia e fisiologia.pdf",
     "Part 2/Progetto senza titolo.jpg"
   ]
 }
