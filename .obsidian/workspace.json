@@ -18,8 +18,21 @@
               "icon": "lucide-image",
               "title": "NotebookLM Mind Map"
             }
+          },
+          {
+            "id": "505299210c8690df",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Part 5/Relazionarsi_con_il_Paziente.mp4"
+              },
+              "icon": "lucide-file",
+              "title": "Relazionarsi_con_il_Paziente"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,9 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "508a2211a5def23f",
+  "active": "505299210c8690df",
   "lastOpenFiles": [
     "Part 4/NotebookLM Mind Map.png",
+    "Part 5/Relazionarsi_con_il_Paziente.mp4",
+    "Part 5/Il_primo_soccorso_si_fa_con_le_parole.m4a",
     "README.md",
     "Part 4",
     "New folder",
@@ -179,8 +194,6 @@
     "Part 2/ABCDE_e_Fisiologia.m4a",
     "Part 2/C.Valutazione ABCDE_.pdf",
     "Part 2/C.3.Valutazione primaria del paziente.pdf",
-    "Part 2/Il_Protocollo_ABCDE.mp4",
-    "Part 2/C.2.Rilevazione dei parametri vitali.pdf",
     "Part 2/Progetto senza titolo.jpg"
   ]
 }
