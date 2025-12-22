@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3bca6050b7ac520c",
+        "id": "4af25a4be8b176ae",
         "type": "tabs",
         "children": [
           {
-            "id": "818ba6260e6cbcf6",
+            "id": "bd82aaef50bc9b38",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Part 4/NotebookLM Mind Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "NotebookLM Mind Map"
-            }
-          },
-          {
-            "id": "505299210c8690df",
-            "type": "leaf",
-            "state": {
-              "type": "video",
-              "state": {
-                "file": "Part 5/Relazionarsi_con_il_Paziente.mp4"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Relazionarsi_con_il_Paziente"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,20 +165,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "505299210c8690df",
+  "active": "bd82aaef50bc9b38",
   "lastOpenFiles": [
     "Part 4/NotebookLM Mind Map.png",
+    "Quiz/Quiz_Croce_Verde_Teoria_TS[Compilato 01-12-2025].pdf",
+    "Part 6 (BLSD)/BLSD_e_Defibrillazione_Precoce.mp4",
+    "Part 6 (BLSD)/BLSD_Protocollo_Per_Addetto_Al_Trasporto_Sanitario_Riassunto.pdf",
+    "Part 6 (BLSD)/G.1.BLSD per addetto al Trasporto Sanitario.pdf",
+    "Part 6 (BLSD)/G.2.2Ostruzione delle vie aeree_adulto_Ped.pdf",
+    "Part 6 (BLSD)/G.Skill BLSD Adulto_.pdf",
+    "Part 6 (BLSD)/NotebookLM Mind Map.png",
+    "Part 6 (BLSD)/BLSD_DAE.m4a",
+    "Part 6 (BLSD)/BLSD_AI.m4a",
     "Part 5/Relazionarsi_con_il_Paziente.mp4",
     "Part 5/Il_primo_soccorso_si_fa_con_le_parole.m4a",
     "README.md",
-    "Part 4",
-    "New folder",
-    "calendario.pdf",
-    "Part 1/Diventare_Soccorritore.mp4",
-    "Part 1/Addetto_al_Trasporto_Sanitario.m4a",
-    "Part 2/ABCDE_e_Fisiologia.m4a",
-    "Part 2/C.Valutazione ABCDE_.pdf",
-    "Part 2/C.3.Valutazione primaria del paziente.pdf",
     "Part 2/Progetto senza titolo.jpg"
   ]
 }
