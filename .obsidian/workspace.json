@@ -11,10 +11,14 @@
             "id": "bd82aaef50bc9b38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -167,6 +171,12 @@
   },
   "active": "bd82aaef50bc9b38",
   "lastOpenFiles": [
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/NotebookLM Mind Map.png",
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/Note descrittive schema ABCDE_.pdf",
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/Lez.2.3_Urgenze pediatriche_.pdf",
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/infografica nano.png",
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/Emergenza_Pediatrica__SSE.mp4",
+    "Corso 78 ore SSE/Emergenze Mediche/Nano/Approfondimenti in età pediatrica_.pdf",
     "Part 4/NotebookLM Mind Map.png",
     "Quiz/Quiz_Croce_Verde_Teoria_TS[Compilato 01-12-2025].pdf",
     "Part 6 (BLSD)/BLSD_e_Defibrillazione_Precoce.mp4",
@@ -175,10 +185,6 @@
     "Part 6 (BLSD)/G.2.2Ostruzione delle vie aeree_adulto_Ped.pdf",
     "Part 6 (BLSD)/G.Skill BLSD Adulto_.pdf",
     "Part 6 (BLSD)/NotebookLM Mind Map.png",
-    "Part 6 (BLSD)/BLSD_DAE.m4a",
-    "Part 6 (BLSD)/BLSD_AI.m4a",
-    "Part 5/Relazionarsi_con_il_Paziente.mp4",
-    "Part 5/Il_primo_soccorso_si_fa_con_le_parole.m4a",
     "README.md",
     "Part 2/Progetto senza titolo.jpg"
   ]
