@@ -1,3 +1,5 @@
+**⚠️ATTENZIONE! File non aggiornati al nuovo protocollo sull'ossigenoterapia! NON fare affidamento ai protocolli per l'ossigenoterapia indicati dopo il 2026. Attenersi SOLO alle indicazioni dell'istruttore**
+
 # 🚑 Croce Verde Baggio 
 
 Benvenuto/a!
